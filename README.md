@@ -11,6 +11,8 @@
 [![Github](https://img.shields.io/badge/_-Github-181717.svg?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/)
 </div>
 
+https://github.com/user-attachments/assets/0753b94b-f1a4-44e0-8580-459f34cd2bd1
+
 ## 📋 Descripción
 
 Este simulador de partículas simula el comportamiento físico de materiales granulares como la perlita expandida. Las partículas caen por gravedad, se acumulan y responden a las interacciones físicas de manera natural. Incluye un sistema de nivel automático con drenaje cuando se alcanza cierta capacidad.
